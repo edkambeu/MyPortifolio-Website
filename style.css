@@ -13,6 +13,11 @@ body {
 header {
     margin-bottom: 0;
 }
+
+ul {
+    list-style-type: none;
+}
+
 h1 {
      color: white; 
      font-weight: 300px;
@@ -291,7 +296,7 @@ display: inline-block;
 }
 
 .app {
-    margin-left: 280px;
+    margin-left: 260px;
     width: 50px;
     padding-top: 1px;
     padding-bottom: 1px;
