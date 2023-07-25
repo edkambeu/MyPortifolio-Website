@@ -294,6 +294,7 @@ display: inline-block;
     padding-top: 1px;
     padding-bottom: 1px;
     background-color: blue;
+    
 }
 
 .app {
@@ -303,7 +304,10 @@ display: inline-block;
     padding-top: 1px;
     padding-bottom: 1px;
     background-color: blue;
-
+    
+}
+.code_app {
+    margin-bottom: 10px;
 }
 
 @media screen and (min-width:768px) {
