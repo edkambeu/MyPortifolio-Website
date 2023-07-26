@@ -246,7 +246,7 @@ display: inline-block;
 /*Portifolio projects*/
 .myportfolio {
     background-color:white;
-    width: 100%
+
 }
 
 .myportfolio h1 {
@@ -312,6 +312,10 @@ display: inline-block;
 }
 
 @media screen and (min-width:768px) {
+
+    .myportfolio {
+        width: 100%;
+    }
     .portfolio_image_container {
         display: grid;
         grid-template-columns: 600px 1fr;
