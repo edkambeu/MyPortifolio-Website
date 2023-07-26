@@ -332,9 +332,7 @@ display: inline-block;
         grid-template-columns: minmax(0,1fr) minmax(0, 1fr);
         
     }
-
-    
-    
+   
 
 .code {
     float: left;
