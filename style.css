@@ -327,7 +327,23 @@ display: inline-block;
         width: 100%;
     }
 
+    .project {
+        width: 50%;
+    }
+    
+
+.code {
+    float: left;
+    width: 50px;
+    margin-left: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: blue;
+    
+}
+
     .app {
+        float: right;
         margin-left: 480px;
         width: 50px;
         padding-top: 1px;
@@ -335,6 +351,8 @@ display: inline-block;
         background-color: blue;
     
     }
+
+
     
 }
 /*Contact component */
